@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuizzApplication</string>
+
+    <string name="q1">which of these is not one of the scrum roles?</string>
+
+    <string name="q2">which of these is not a scrum value?</string>
+
+    <string name="q3">What is the duration of a sprint in Scrum?</string>
+
+    <string name="q4">  Which of the following meeting is not part of Scrum?</string>
+
+    <string name="q5">  Which one of the following is not a Scrum Artifact?</string>
+
+
+    <string name="q1A">What is an activity in Android?</string>
+
+    <string name="q2A"> Which of the following is/are the subclasses in Android?</string>
+
+    <string name="q3A">What is an interface in android?</string>
+
+    <string name="q4A">How many orientations does android support?</string>
+
+    <string name="q5A">What is APK in android?</string>
+
+
+    <string name="q1S">Which of these is not a South African political party ?</string>
+
+    <string name="q2S">Which among these leaders was not a South African president ?</string>
+
+    <string name="q4S">whos is the current president of south africa?</string>
+
+    <string name="q3S">"Umkhonto we Sizwe" translates to "? of the nation"?</string>
+
+    <string name="q5S">By 2009,(ANC) was the majority party controlling8 of the country\'s 9 provinces.The province it did not control was?</string>
+</resources>
